@@ -1,0 +1,9 @@
+1.They have only 4 use-case.
+2.the don't have feature.
+2.the don't have non-functional feature.
+
+
+2.Features.
+
+1.First We need list of right answers which added by teacher.
+2.Our application will count point by using recognize algo.
